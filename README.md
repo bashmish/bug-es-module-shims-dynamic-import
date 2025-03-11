@@ -1,5 +1,7 @@
 # bug-es-module-shims-dynamic-import
 
+> See open issue in es-module-shims https://github.com/guybedford/es-module-shims/issues/471
+
 Dirs "es-module-shims-v1" and "es-module-shims-v2" are identical, except a different version of the polyfill is loaded.
 
 Steps to reproduce:
