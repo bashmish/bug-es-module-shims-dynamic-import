@@ -1,0 +1,13 @@
+{
+  "name": "bug-es-module-shims-dynamic-import",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "http-server ./"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "es-module-shims-v1": "npm:es-module-shims@^1.10.1",
+    "es-module-shims-v2": "npm:es-module-shims@^2.0.10",
+    "http-server": "^14.1.1"
+  }
+}
